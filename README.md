@@ -5,7 +5,7 @@
 「垂直なSeekBar」クラスの動作テスト用のプロジェクト
 
 ## ScreenShot
-![](screenshot_01.png)
+![](screenshots/screenshot_01.png)
 
 ## Autor
 [Nobuki HIRAMINE](http://www.hiramine.com)
