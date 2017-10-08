@@ -1,7 +1,7 @@
 # VerticalSeekBarTest
-「垂直なSeekBar」クラスの動作テスト
-「SeekBar」クラスを拡張し、「垂直なSeekBar」クラスを作成しました。  
-「垂直なSeekBar」クラスの動作テスト用のプロジェクトです。
+「垂直なSeekBar」クラスの動作テスト  
+「SeekBar」クラスを拡張し、「垂直なSeekBar」クラスを作成しました。  
+「垂直なSeekBar」クラスの動作テスト用のプロジェクトです。  
 
 ## Screenshots : スクリーンショット
 <img src="screenshots/screenshot_01.png" width="256" alt="Screenshot"/>
